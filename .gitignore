@@ -1,0 +1,6 @@
+/node_modules
+/package-lock.json
+/postcss.config.cjs.delete
+/dist
+/.parcel-cache
+/.DS_Store
